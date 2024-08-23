@@ -1,0 +1,32 @@
+.container-about{
+    height: 80vh;
+    /* background-color: rgba(255, 255, 255, 0.4); */
+}
+
+.card{
+    border-color: #686D76;
+    background-color: #161616;
+    width: 25%;
+    height: 45vh;
+    margin: 0 2em;
+    padding-top: 11em;
+}
+
+.card-icon{
+    color: white;
+    font-size: 1.5em;
+}
+
+.card-title{
+    font-size: 1.5em;
+    color: white;
+    font-weight: 400;
+    padding: 0;
+}
+
+.card-description{
+        font-size: 1em;
+        color: white;
+        font-weight: 400;
+        padding: 0;
+}

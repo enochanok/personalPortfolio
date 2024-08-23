@@ -1,0 +1,49 @@
+.lines{
+    color: white;
+}
+
+.h4{
+    color: white !important;
+}
+
+  .picture{
+    width: 100px; 
+    height: 100px;
+    object-fit: cover;
+
+  }
+
+  .handwave{
+        transform: scaleX(1); 
+    
+}
+
+h1 {
+    width: 70%;
+    color: #F7F7F8;
+    padding: 0;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+  }
+
+.hero-section{
+    height: 90vh;
+}
+
+.img-container{
+
+    width: 600px;
+    text-align: center;
+}
+
+
+p{
+    margin-top: 5px !important;
+    padding: 0 !important;
+}
+
+.mailbox{
+    color: white;
+    padding: 4px 5px;
+}
